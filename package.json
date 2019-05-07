@@ -14,9 +14,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/rixw/cheerio-advanced"
 	},
 	"author": "",
-	"license": "ISC",
-	"homepage": ""
+	"license": "MIT",
+	"homepage": "https://github.com/rixw/cheerio-advanced"
 }
