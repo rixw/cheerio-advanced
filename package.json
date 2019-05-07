@@ -1,0 +1,22 @@
+{
+	"name": "cheerio-advanced",
+	"version": "0.1.0",
+	"description": "An enchanced Cheerio crawler for Apify.",
+	"main": "main.js",
+	"dependencies": {
+		"@mnmkng/scraper-tools": "0.1.0",
+		"apify": "^0.13.3"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "node main.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"author": "",
+	"license": "ISC",
+	"homepage": ""
+}
