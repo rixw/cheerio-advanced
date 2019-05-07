@@ -16,7 +16,11 @@
 		"type": "git",
 		"url": "https://github.com/rixw/cheerio-advanced"
 	},
-	"author": "",
-	"license": "MIT",
+	"author": {
+		"name": "Richard Weaver",
+		"email": "richard@drinksight.com",
+		"url": "https://www.drinksight.com"
+	},
+	"license": "Apache-2.0",
 	"homepage": "https://github.com/rixw/cheerio-advanced"
 }
